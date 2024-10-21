@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Louis.
+A student in Perth, Western Australia. Working on a SaaS project using SvelteKit, and attempting to learn Rust. 
+### Other things I do:
+- Playing piano Accordion
+- Learning graphic design
+- Photography
+
+You can find my personal website [here](https://louisbourgault.vercel.app)
 
 <!--
 **Louis-Bourgault/Louis-Bourgault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
